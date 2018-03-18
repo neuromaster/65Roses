@@ -17,6 +17,11 @@ EASE Pain and Suffering
 Fund -> Under Privliged Families involved with CF Patients
 
 
+Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
+
+
+Windows Wallet  https://github.com/neuromaster/65Roses/blob/master/65roses-qt-windows.zip
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
