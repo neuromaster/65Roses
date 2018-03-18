@@ -1,0 +1,8 @@
+title: 65roses
+description: Cure Cystic Fibrosis
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
