@@ -213,4 +213,6 @@ Microsoft Windows File Unblock
 
 Please Support the Development of 65Roses
 
+Donate Here - https://coingate.com/pay/65roses
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
