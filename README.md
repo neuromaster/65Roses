@@ -30,15 +30,22 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 
 # 65ROSES TOKEN - Binance Smart Chain Migration
 
---
+$
 
  CURE Cystic Fibrosis 
 
 
-+ 8%  For Development 
-+ 2%  Marketing 
-+ 1%  Gifting CF Patients 
-+ 20% Cystic Fibrosis Foundation https://www.cff.org/ 
++ 8%  Development / Maitenance
+
++ 4%  Marketing / Exchanges
+
++ 3%  Gifting CF Patients / Essential Funding - Cystic Fibrosis Foundation - Audit: https://www.cff.org/
+
++ 20% Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
+
++ 65% Piblic Release
+
+$
 
 
 Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
