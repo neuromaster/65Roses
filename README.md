@@ -47,9 +47,9 @@ Yield Contract
 
  🌹  5%  Automatic LP Liquidity [Locked]
 
-Supply CCF 65000000000 65 Billion Total Token Supply.
+- Supply CCF 65000000000 65 Billion Total Token Supply.
 
-Burn Amount Blocks 6500000 TBA
+- Burn Amount Blocks 6500000 TBA
 
 #
 #
