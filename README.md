@@ -1,5 +1,5 @@
 # 65Roses
-[65ROSES] BSC Binance Smart Chain
+[65ROSES] BSC Binance Smart Chain Fundraising Token
 
 CCF Wallet - Cure Cystic Fibrosis $CCF #CCF
 
@@ -240,9 +240,21 @@ You can fix this using the following instructions.
 Microsoft Windows File Unblock
 
 #
+
 Please Support the Development of 65Roses
 
 A guide to hosting your own fundraiser for Cystic Fibrosis 
+
 https://www.cfwa.org.au/wp-content/uploads/2018/02/Community-Fundraising-Handbook-FINAL-2018.pdf
 
 #
+
+# 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation. https://www.cff.org/
+
+#
+
+$65ROSES Exchange Listing and release details coming very soon
+
+
+
+
