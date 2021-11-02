@@ -3,8 +3,6 @@
 
 CCF Wallet - Cure Cystic Fibrosis $CCF #CCF
 
--
-
 65ROSES 65ROSES (CCF)
 
 # The 65 Roses Story
@@ -18,7 +16,6 @@ the name of their disease.
 The "65 Roses" story has captured the hearts and emotions of all who have heard it. 
 The rose, appropriately the ancient symbol of love, has become a symbol of the 
 Cystic Fibrosis Foundation.
--
 
 # What is [CF] Cystic Fibrosis $65ROSES #65ROSES
 
@@ -31,17 +28,17 @@ it's done...and 100% of cystic fibrosis patients have a cure.
 https://www.youtube.com/watch?v=0cYdPMGth9Q
 
 
-65ROSES TOKEN - Binance Smart Chain Migration
+# 65ROSES TOKEN - Binance Smart Chain Migration
 
 --
 
  CURE Cystic Fibrosis 
 
 
-+ 8%  For Development
-2%  Marketing
-1%  Gifting CF Patients
-20% Cystic Fibrosis Foundation https://www.cff.org/
++ 8%  For Development 
++ 2%  Marketing 
++ 1%  Gifting CF Patients 
++ 20% Cystic Fibrosis Foundation https://www.cff.org/ 
 
 
 Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
@@ -220,7 +217,7 @@ Replace the text "REPLACE_WITH_YOUR_PASSWORD" with your password.
 The number 9999999 is the amount of seconds you want to leave your wallet unlocked for staking.
 
 
--
+--
 
 How do I start my wallet on Microsoft Windows?
 
