@@ -55,7 +55,7 @@ CCF TOKEN SHARE BREAKDOWN
 #
 #
 
-# 65 Roses now fully #DEX [Decentralized Tokens] 
+# Google (Android 11) 65 Roses now fully #DEX [Decentralized Tokens] 
 
 # [outdated] Linux and Windows Wallets No Longer Supported
 
