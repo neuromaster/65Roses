@@ -49,7 +49,7 @@ Yield Contract
 
 - Supply CCF 65000000000 65 Billion Total Token Supply.
 
-- Burn Amount Blocks 6500000 TBA
+- Proposed Burn Amount in Blocks of 6500000 Every 30 Days 12 Months TBA
 
 #
 #
