@@ -7,6 +7,17 @@ CCF Wallet - Cure Cystic Fibrosis $CCF #CCF
 
 65ROSES 65ROSES (CCF)
 
+# The 65 Roses Story
+The “65 Roses” story dates back to 1965 when an observant 4-year-old, hearing the name 
+of his disease for the first time, pronounced cystic fibrosis as "65 Roses." Today, 
+“65 Roses” is a term often used by young children with cystic fibrosis to pronounce 
+the name of their disease.
+
+# 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation. 
+
+The "65 Roses" story has captured the hearts and emotions of all who have heard it. 
+The rose, appropriately the ancient symbol of love, has become a symbol of the 
+Cystic Fibrosis Foundation.
 -
 
 # What is [CF] Cystic Fibrosis $65ROSES #65ROSES
@@ -24,11 +35,13 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 
 --
 
-CURE Cystic Fibrosis 
+ CURE Cystic Fibrosis 
 
-EASE Pain and Suffering
 
-Fund -> Under Privliged Families involved with CF Patients
++ 8%  For Development
+2%  Marketing
+1%  Gifting CF Patients
+20% Cystic Fibrosis Foundation https://www.cff.org/
 
 
 Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
