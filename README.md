@@ -1,5 +1,5 @@
 # 65Roses
-65ROSES BSC Binance Smart Chain
+[65ROSES] BSC Binance Smart Chain
 
 CCF Wallet - Cure Cystic Fibrosis $CCF #CCF
 
