@@ -57,7 +57,7 @@ Burn Amount Blocks 6500000 TBA
 
 # 65 Roses now fully #DEX [Decentralized Tokens]
 
-# Linux and Windows Wallets no Longer Supported
+# Linux and Windows Wallets No Longer Supported
 
 Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
 
