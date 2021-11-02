@@ -10,7 +10,7 @@ of his disease for the first time, pronounced cystic fibrosis as "65 Roses." Tod
 “65 Roses” is a term often used by young children with cystic fibrosis to pronounce 
 the name of their disease.
 
-# 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation. 
+#  🌹 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation. 
 https://www.cff.org/
 
 The "65 Roses" story has captured the hearts and emotions of all who have heard it. 
