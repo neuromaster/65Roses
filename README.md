@@ -41,6 +41,12 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 
 + 65% Public Release
 
+Yeild Contract
+
+5% of Fees will automatically yeild assets directly to Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
+
+5% Automatic LP Liquidity
+
 #
 #
 
@@ -49,8 +55,7 @@ Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-li
 
 Windows Wallet  https://github.com/neuromaster/65Roses/blob/master/65roses-qt-windows.zip
 
--
-
+#
 
 How do I mine a block? (Scrypt/SHA-256)
 
@@ -73,9 +78,7 @@ getmininginfo
 
 It will take about +/- 10 minutes to mine your first block, depending on your computer hardware.
 
-
--
-
+#
 
 How do I mine a block? (Scrypt PoW/PoS)
 
@@ -106,7 +109,7 @@ Save the file inside the extracted cpuminer folder.
 
 Open your wallet and execute mine.bat to start mining your first coins.
 
--
+#
 
 
 Where can I find my blockchain data dir?
@@ -118,7 +121,7 @@ Windows 7, 8.1, 10 	 %APPDATA%\examplecoin\ 	C:\Users\username\AppData\Roaming\e
 Linux 	$HOME/.examplecoin/ 	/home/username/.examplecoin/examplecoin.conf
 macOS 	$HOME/Library/Application Support/examplecoin/ 	/Users/username/Library/Application Support/examplecoin/examplecoin.conf
 
--
+#
 
 
 You can calculate how much coins you mine per day using the following formula.
@@ -138,7 +141,7 @@ https://litecoin.info/index.php/Mining_hardware_comparison
 SHA-256
 https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison
 
--
+#
 
 You can backup your wallet using the following instructions.
 
@@ -148,7 +151,7 @@ Important: replace "examplecoin" with the name of your blockchain.
 2) Open the folder "%APPDATA%\examplecoin\".
 3) Copy the file wallet.dat to a safe location.
 
--
+#
 
 How do I setup a node on Ubuntu server?
 
@@ -192,7 +195,7 @@ Start your node with the following command.
 
 examplecoind
 
--
+#
 
 How do I start staking?
 
@@ -220,7 +223,7 @@ Replace the text "REPLACE_WITH_YOUR_PASSWORD" with your password.
 The number 9999999 is the amount of seconds you want to leave your wallet unlocked for staking.
 
 
---
+#
 
 How do I start my wallet on Microsoft Windows?
 
@@ -236,10 +239,10 @@ You can fix this using the following instructions.
 
 Microsoft Windows File Unblock
 
--
+#
 Please Support the Development of 65Roses
 
 A guide to hosting your own fundraiser for Cystic Fibrosis 
 https://www.cfwa.org.au/wp-content/uploads/2018/02/Community-Fundraising-Handbook-FINAL-2018.pdf
 
-
+#
