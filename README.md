@@ -7,8 +7,23 @@
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+# What is [CF] Cystic Fibrosis $65ROSES #65ROSES
 
-Donate Trade Mine Exchange
+Rebecca Schroeder has a background in chemistry, and a child with a rare genetic 
+disease called Cystic Fibrosis. In this video, she describes the last miraculous 
+decade of medical research and advocacy, which has transformed the lives of many 
+living with cystic fibrosis. Progress is FANTASTIC, but we won't stop until 
+it's done...and 100% of cystic fibrosis patients have a cure.
+
+https://www.youtube.com/watch?v=0cYdPMGth9Q
+
+
+
+
+NO LONGER SUPPORTED - Binance Smart Chain Migration
+
+
+
 
 CURE Cystic Fibrosis 
 
