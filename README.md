@@ -11,7 +11,7 @@ of his disease for the first time, pronounced cystic fibrosis as "65 Roses." Tod
 the name of their disease.
 
 #  🌹 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation. 
-Official Release Dates - https://www.cff.org/ TBA
+Official Release Dates - https://www.cff.org/ TBA on 1INCh PANCAKESWAP APESWAP ANYSWAP
 
 The "65 Roses" story has captured the hearts and emotions of all who have heard it. 
 The rose, appropriately the ancient symbol of love, has become a symbol of the 
