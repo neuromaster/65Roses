@@ -51,6 +51,8 @@ Yeild Contract
 #
 #
 
+# 65 Roses is now fully decentralized Linux and Windows Wallets no Longer Supported
+
 Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
 
 
