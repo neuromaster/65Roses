@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 
  🌹  3%   Gifting CF Patients / Essential Funding - Cystic Fibrosis Foundation - Audit: https://www.cff.org/
 
- 🌹  20%  Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
+ 🌹  20%  Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 80% Locked 6 Months
 
  🌹  65%  Public Release - Audit: https://www.cff.org/ 
 
