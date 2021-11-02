@@ -28,12 +28,8 @@ it's done...and 100% of cystic fibrosis patients have a cure.
 https://www.youtube.com/watch?v=0cYdPMGth9Q
 
 
-# 65ROSES TOKEN - Binance Smart Chain Migration
-
-$
-
- CURE Cystic Fibrosis 
-
+# 65ROSES TOKEN - Binance Smart Chain Migration - BSC TOKEN - $BNB $ETH CURE Cystic Fibrosis 
+#
 
 + 8%  Development / Maitenance
 
@@ -45,8 +41,8 @@ $
 
 + 65% Piblic Release
 
-$
-
+#
+#
 
 Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
 
