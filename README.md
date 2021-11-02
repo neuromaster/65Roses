@@ -48,6 +48,10 @@ Yeild Contract
 
 + 5%  Automatic LP Liquidity
 
+Supply CCF 65000000000 65 Billion Total Token Supply.
+
+Burn Amount Blocks 6500000 TBA
+
 #
 #
 
