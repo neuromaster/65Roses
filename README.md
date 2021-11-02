@@ -31,21 +31,21 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 # 65ROSES TOKEN - Binance Smart Chain Migration - BSC TOKEN - $BNB $ETH CURE Cystic Fibrosis 
 #
 
- 🌹 8%   Development / Maitenance
+ 🌹  8%   Development / Maitenance
 
- 🌹 4%   Marketing / Exchanges
+ 🌹  4%   Marketing / Exchanges
 
- 🌹 3%   Gifting CF Patients / Essential Funding - Cystic Fibrosis Foundation - Audit: https://www.cff.org/
+ 🌹  3%   Gifting CF Patients / Essential Funding - Cystic Fibrosis Foundation - Audit: https://www.cff.org/
 
- 🌹 20%  Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
+ 🌹  20%  Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
 
- 🌹 65%  Public Release
+ 🌹  65%  Public Release
 
 Yeild Contract
 
-+ 5%  Fees will automatically yeild assets directly to Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
+ 🌹  5%  Fees will automatically yeild assets directly to Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
 
-+ 5%  Automatic LP Liquidity
+ 🌹  5%  Automatic LP Liquidity
 
 Supply CCF 65000000000 65 Billion Total Token Supply.
 
