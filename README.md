@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 
 + 20% Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
 
-+ 65% Piblic Release
++ 65% Public Release
 
 #
 #
