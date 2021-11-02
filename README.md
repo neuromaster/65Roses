@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 
 # 65ROSES TOKEN - Binance Smart Chain Migration - BSC TOKEN - $BNB $ETH CURE Cystic Fibrosis 
 #
+CCF TOKEN SHARE BREAKDOWN
 
  🌹  8%   Development / Maitenance
 
