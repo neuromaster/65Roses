@@ -31,15 +31,15 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 # 65ROSES TOKEN - Binance Smart Chain Migration - BSC TOKEN - $BNB $ETH CURE Cystic Fibrosis 
 #
 
-+ 8%   Development / Maitenance
+ 🌹 8%   Development / Maitenance
 
-+ 4%   Marketing / Exchanges
+ 🌹 4%   Marketing / Exchanges
 
-+ 3%   Gifting CF Patients / Essential Funding - Cystic Fibrosis Foundation - Audit: https://www.cff.org/
+ 🌹 3%   Gifting CF Patients / Essential Funding - Cystic Fibrosis Foundation - Audit: https://www.cff.org/
 
-+ 20%  Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
+ 🌹 20%  Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
 
-+ 65%  Public Release
+ 🌹 65%  Public Release
 
 Yeild Contract
 
@@ -54,7 +54,7 @@ Burn Amount Blocks 6500000 TBA
 #
 #
 
-# 65 Roses now fully #DEX [Decentralized Tokens]
+# 65 Roses now fully #DEX [Decentralized Tokens] 
 
 # Linux and Windows Wallets No Longer Supported
 
@@ -249,7 +249,7 @@ Microsoft Windows File Unblock
 
 #
 
-Please Support the Development of 65Roses
+Please Support the Development of 65Roses  🌹
 
 A guide to hosting your own fundraiser for Cystic Fibrosis 
 
@@ -257,7 +257,7 @@ https://www.cfwa.org.au/wp-content/uploads/2018/02/Community-Fundraising-Handboo
 
 #
 
-# 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation. https://www.cff.org/
+#  🌹 65 Roses® is a registered trademark of the Cystic Fibrosis Foundation. https://www.cff.org/
 
 #
 
