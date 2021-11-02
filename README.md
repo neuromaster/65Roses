@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=0cYdPMGth9Q
 
  🌹  65%  Public Release - Audit: https://www.cff.org/ 
 
-Yield Contract
+- Yield Contract
 
  🌹  5%  Fees will automatically yeild assets directly to Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
 
