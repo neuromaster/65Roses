@@ -45,7 +45,7 @@ Yield Contract
 
  🌹  5%  Fees will automatically yeild assets directly to Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
 
- 🌹  5%  Automatic LP Liquidity
+ 🌹  5%  Automatic LP Liquidity [Locked]
 
 Supply CCF 65000000000 65 Billion Total Token Supply.
 
