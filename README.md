@@ -48,7 +48,7 @@ $65Roses TOKEN SHARE BREAKDOWN
 
  🌹  5%  Automatic LP Liquidity [Locked]
 
-- Total Token Supply $65Roses 65000000000 - 65 Billion [CCF]
+- Total Token Supply $65Roses 65000000000 - 65 Billion [65ROSES]
 
 - Proposed Burn Amount in Blocks of 6500000 Every 14 Days 12 Months TBA
 
