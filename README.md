@@ -2,7 +2,7 @@
 [65ROSES] BSC Binance Smart Chain, Asset Generation / Fundraising Token - 65Roses®
 
 #
-$65ROSES #65ROSES [ CCF ] CF Wallet - Cure Cystic Fibrosis $CCF #CCF
+$65ROSES #65ROSES [$65Roses] CF Wallet - Cure Cystic Fibrosis $65Roses
 
 # The 65 Roses Story
 The “65 Roses” story dates back to 1965 when an observant 4-year-old, hearing the name 
@@ -17,7 +17,7 @@ The "65 Roses" story has captured the hearts and emotions of all who have heard 
 The rose, appropriately the ancient symbol of love, has become a symbol of the 
 Cystic Fibrosis Foundation.
 
-# What is [CF] Cystic Fibrosis $65ROSES #65ROSES
+# What is [$65Roses] Cystic Fibrosis #65ROSES
 
 Rebecca Schroeder has a background in chemistry, and a child with a rare genetic 
 disease called Cystic Fibrosis. In this video, she describes the last miraculous 
