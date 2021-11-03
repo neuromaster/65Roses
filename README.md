@@ -4,7 +4,7 @@
 #
 $65ROSES #65ROSES [$65Roses] CF Wallet DEX Exchange - Cure Cystic Fibrosis $65Roses Ticker:65Roses
 
-# The 65 Roses Story
+# The 65 Roses Crypto Story
 The “65 Roses” story dates back to 1965 when an observant 4-year-old, hearing the name 
 of his disease for the first time, pronounced cystic fibrosis as "65 Roses." Today, 
 “65 Roses” is a term often used by young children with cystic fibrosis to pronounce 
