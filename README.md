@@ -2,7 +2,7 @@
 [65ROSES] BSC Binance Smart Chain, Asset Generation / Fundraising Token - 65Roses®
 
 #
-$65ROSES #65ROSES [$65Roses] CF Wallet - Cure Cystic Fibrosis $65Roses Ticker:$65Roses
+$65ROSES #65ROSES [$65Roses] CF Wallet - Cure Cystic Fibrosis $65Roses Ticker:65Roses
 
 # The 65 Roses Story
 The “65 Roses” story dates back to 1965 when an observant 4-year-old, hearing the name 
