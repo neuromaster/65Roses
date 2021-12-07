@@ -1,7 +1,7 @@
 # 65Roses  🌹
 [65ROSES] BSC Binance Smart Chain, Asset Generation / Fundraising Token - 65Roses®
 
-#
+# Official Launch Feburary 2022
 $65ROSES #65ROSES [$65Roses] CF Wallet DEX Exchange - Cure Cystic Fibrosis $65Roses Ticker:65Roses
 
 # The 65 Roses Crypto Story
