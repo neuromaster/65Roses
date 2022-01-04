@@ -55,7 +55,7 @@ $65Roses TOKEN SHARE BREAKDOWN
 #
 #
 
-# 🌹 65 Roses now fully #DEX [Decentralized Tokens] 
+# 🌹 65 Roses 100% Opensource DEX [Decentralized Tokens] $65Roses
 
 # [outdated] Linux and Windows Wallets No Longer Supported
 
