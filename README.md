@@ -44,9 +44,9 @@ $65Roses TOKEN SHARE BREAKDOWN
 
 - Yield Contract
 
- 🌹  5%  Fees will automatically yeild assets directly to Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
+ 🌹  4.4%  Fees will automatically yeild assets directly to Cystic Fibrosis Foundation - Audit: https://www.cff.org/ 
 
- 🌹  5%  Automatic LP Liquidity [Locked]
+ 🌹  4.4%  Automatic LP Liquidity [Locked]
 
 - Total Token Supply $65Roses 65000000000 - 65 Billion [65ROSES]
 
