@@ -1,4 +1,4 @@
-SOLANA Devops Migration
+SOLANA Devops Migration - Beta Release
 
 # 65Roses  🌹
 [65ROSES] BSC Binance Smart Chain, Asset Generation / Fundraising Token - 65Roses®
