@@ -63,7 +63,7 @@ $65Roses TOKEN SHARE BREAKDOWN
 
 # 🌹 65 Roses 100% Opensource DEX [Decentralized Tokens] $65Roses
 
-# [outdated] Linux and Windows Wallets No Longer Supported
+-SOLANA Intergration, Devops #BCN
 
 - Linux Wallet    https://github.com/neuromaster/65Roses/blob/master/65roses-qt-linux.tar.gz
 
