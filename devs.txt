@@ -1,1 +1,3 @@
 Cryptonote NEUROMASTER 2.0 Revision $BCN Devops
+
+# $NXR
